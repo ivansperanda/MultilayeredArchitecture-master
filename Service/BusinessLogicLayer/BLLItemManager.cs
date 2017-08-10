@@ -1,7 +1,7 @@
 ﻿using ServiceInterfaces;
 using System.Collections.Generic;
 
-namespace BusinesLogicLayer
+namespace BusinessLogicLayer
 {
     public class BLLItemManager : IBLLItemManager
     {
